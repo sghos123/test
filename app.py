@@ -1,2 +1,2 @@
 print ("hello world")
-print("hello bot")
+print("hello gpt")
